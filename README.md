@@ -1,2 +1,2 @@
-to juz kolejny raz /n
+to juz kolejny raz 
 kolejna linia
