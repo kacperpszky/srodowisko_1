@@ -1,6 +1,9 @@
 #include <stdio.h>
 
 int main(){
-	printf("Hello World\n");
+	int a;
+	printf("Hello World \n");
+	printf("Podana liczba to %d == \n",a);
+
 	return 0;
 }
